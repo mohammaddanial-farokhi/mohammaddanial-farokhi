@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,50:064E3B,100:047857&height=220&section=header&text=Mohammad%20Danial%20Farokhi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Large%20Language%20Model%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:5B21B6&height=220&section=header&text=Mohammad%20Danial%20Farokhi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Large%20Language%20Model%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1200&color=047857&center=true&vCenter=true&width=780&lines=Efficient+adaptation+of+large+language+models;Preference+alignment+on+constrained+hardware;NLP+%7C+multilingual+fine-tuning+%7C+applied+alignment;Small+footprint%2C+considered+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1200&color=7C3AED&center=true&vCenter=true&width=780&lines=Efficient+adaptation+of+large+language+models;Preference+alignment+on+constrained+hardware;NLP+%7C+multilingual+fine-tuning+%7C+applied+alignment;Small+footprint%2C+considered+engineering)](https://git.io/typing-svg)
 
 <br/>
 
