@@ -104,7 +104,7 @@ My work takes open-weight language models and shapes them into focused tools: ad
 
 ---
 
-## 🚀 Things I Will Build
+## 🚀 Applied Capabilities
 
 <table>
 <tr>
